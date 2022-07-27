@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sn2trgp1gyflo01e?svg=true)](https://ci.appveyor.com/project/AbdulovADA/autojava2apici)
